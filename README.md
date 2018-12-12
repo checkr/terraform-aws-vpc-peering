@@ -5,7 +5,7 @@
 # terraform-aws-vpc-peering [![Build Status](https://travis-ci.org/cloudposse/terraform-aws-vpc-peering.svg?branch=master)](https://travis-ci.org/cloudposse/terraform-aws-vpc-peering) [![Latest Release](https://img.shields.io/github/release/cloudposse/terraform-aws-vpc-peering.svg)](https://github.com/cloudposse/terraform-aws-vpc-peering/releases/latest) [![Slack Community](https://slack.cloudposse.com/badge.svg)](https://slack.cloudposse.com)
 
 
-Terraform module to create a peering connection between two VPCs
+Terraform module to create a peering connection between two VPCs. edit test 2
 
 
 ---
